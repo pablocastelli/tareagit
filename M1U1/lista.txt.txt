@@ -2,3 +2,5 @@ galletitas
 pepsi
 queso rallado
 provoleta
+salame
+manzana
